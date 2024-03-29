@@ -2,7 +2,7 @@
 // Syntax Error , ; . etc
 // Logical Error  (Somewhere your logic is mistake)
 // Fetal Error  (Can't be correct we should rewrite code Rare Case Error)
-document.write('Hello');
+//document.write('Hello');
 
 //Operator in JS
 //Arthmetic Operator (+ - / % *)
