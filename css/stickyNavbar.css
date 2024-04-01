@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial;
+}
+header{
+    text-align: center;
+    margin: 60px 0px;
+}
+nav{
+    text-align: center;
+    background-color: green;
+    color: white;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    font-size: 18px;
+    padding: 20px 15px;
+}
+#container{
+    text-align: center;
+    margin-top: 60px;
+}
+#container img{
+    width: 100%;
+    padding: 30px 0px;
+}
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
